@@ -1,0 +1,20 @@
+{
+  "label": "smoke experiment",
+  "training_seeds": [
+    11,
+    22,
+    33
+  ],
+  "evaluation_seeds": [
+    101,
+    202,
+    303
+  ],
+  "solo_steps_per_seed": 30000,
+  "passing_seeds": [
+    11,
+    22,
+    33
+  ],
+  "traffic_gate_passed": true
+}

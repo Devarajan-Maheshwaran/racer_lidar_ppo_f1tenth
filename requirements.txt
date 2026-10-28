@@ -1,0 +1,5 @@
+numpy==2.5.4
+gymnasium==1.4.0
+torch==2.14.1
+stable-baselines3==2.9.2
+pytest==9.2.0
